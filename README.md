@@ -1,13 +1,7 @@
-Since the `.env` is finally gone from the site, you're safe! Here is a high-energy, **Solo Leveling** themed README for **NEXUS HIRE**. This will make your "TinyFish" project look elite on GitHub.
-
----
-
 # ⚔️ NEXUS HIRE: Solo Leveling AI Hiring Copilot
 **"The System has chosen the best candidates."**
 
 NEXUS HIRE is an **Agentic AI Copilot** designed to help recruiters "level up" their hiring process. Built on the **TinyFish** framework, it uses autonomous agents to crawl, analyze, and rank candidate data across the web, turning raw profiles into structured, visual intelligence.
-
-
 
 ---
 
@@ -81,5 +75,3 @@ npm start
 *NEXUS HIRE is a technical exploration into AI-assisted recruitment. It is designed for developers and recruiters to understand how agentic workflows can interpret technical contributions.*
 
 ---
-
-**Now that the README is updated and the `.env` is gone, you are ready to flip the switch. Go to Settings and make "TinyFish" Public!** 🚀
